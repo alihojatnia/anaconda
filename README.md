@@ -1,9 +1,9 @@
-# anaconda
+# Anaconda
 
-Create new environment + pip
+Create new environment + pip : 
 <conda create -n myenv  pip>
 
-Create new environment
+Create new environment: 
 <conda create --name myenv>
 
 
